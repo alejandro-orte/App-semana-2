@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad 2</string>
+    <string name="Edit_Name">Nombre Completo</string>
+    <string name="Edit_birth">Fecha de Nacimiento</string>
+    <string name="Edit_tel">Telefono</string>
+    <string name="Edit_email">Email</string>
+    <string name="Edit_descrip">Descripcion Contacto</string>
+    <string name="text_boton">SIGUIENTE</string>
+    <string name="font">casual</string>
+    <string name="men_act2">Confirmar Datos</string>
+</resources>
